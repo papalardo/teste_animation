@@ -1,0 +1,140 @@
+@charset "UTF-8";
+
+html, body {margin: 0; padding: 0;}
+
+#banner {
+    position: relative;
+    background-image: url("imgs/bg.png");
+    background-repeat: no-repeat;
+    width: 310px;
+    height: 300px;
+    overflow: hidden;
+    margin:auto;
+}
+
+#i01 {
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+    width: 100%;
+    opacity: 0;
+}
+
+#i02 {
+    position: absolute;    
+    top: 90px;
+    left: 25%;
+    width: 50%;
+    opacity: 0;
+}
+
+#i03 {
+    position: absolute;
+    bottom: 5px;
+    left: 25%;
+    opacity: 0;
+}
+/**/
+#i04 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+#i05 {
+    position: absolute;
+    top: 73%;
+    left: 0;
+    opacity: 0;
+}
+
+#i06 {
+    position: absolute;
+    top: 55%;
+    right: 200px;
+    width: 90%;
+    opacity: 0;
+}
+
+#i07 {
+    position: absolute;
+    top: 40%;
+    width: 90%;
+    right: 5%;
+    opacity: 0;
+}
+/* 17 */
+#i08 {
+    position: absolute;
+    top: 45%;
+    left: 10%;
+    opacity: 0;
+}
+/* A */
+#i09 { 
+    position: absolute;
+    top: 55%;
+    left: 43%;
+    opacity: 0;
+}
+/* 27 */
+#i10 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    opacity: 0;
+}
+/* Novembro */
+#i11 {
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    opacity: 0;
+}
+/* P4 */
+
+/* Slogan */
+#i12 {
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    opacity: 0;
+}
+/* Box Laranja */
+#i13 {
+    position: absolute;
+    top: 63%;
+    left: 23%;
+    opacity: 0;
+}
+/* Saiba mais */
+#i14 {
+    position: absolute;
+    top: 65%;
+    left: 38%;
+    opacity: 0;
+}
+
+#i15 {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    opacity: 0;
+}
+/* Paper */
+#i16 {
+    position: absolute;
+    top: 80%;
+    left: 70%;
+    opacity: 0;
+    transform: rotate(6deg);
+}
+/* Caixa Logo */
+#i17 {
+    position: absolute;
+    bottom: 5%;
+    right: 0;
+    opacity: 0;
+}
+
